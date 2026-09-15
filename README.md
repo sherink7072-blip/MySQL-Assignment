@@ -1,4 +1,4 @@
-# MySQL-Assignment
+# MySQL-Assignment 2
 MySQL Assignment steps taken--->
 1) Table creation with DDL Commands
 2) Table Alteration
@@ -9,3 +9,16 @@ MySQL Assignment steps taken--->
 7) Department Tables
 8) Location Table
 9) Employees Table
+
+
+
+MySQL-Assignment 2
+MySQL Assignment steps taken--->
+Distint Value
+AS
+Where Clause and Operators
+Fill missing 
+Update
+Sorting Grouping
+Group By
+Joins--> Inner--> Left---> Right
