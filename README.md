@@ -28,3 +28,5 @@ Joins--> Inner--> Left---> Right
 
 
 MySQL Assignment 3
+
+ File :- E-Commerce Customer churn db assignment 3
